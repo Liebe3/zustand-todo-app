@@ -1,16 +1,30 @@
-<<<<<<< HEAD
-# React + Vite
+# ✅ Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Todo App built with **React (Vite)**, **Tailwind CSS**, **Zustand** for state management, and **React Icons**.  
+This project is a practice build to explore global state management and component styling with modern tools.
 
-Currently, two official plugins are available:
+---
+## 🚀 Features
+- ➕ Add new todos  
+- ✏️ Edit existing todos  
+- ❌ Delete todos   
+- 💾 State persistence using local storage
+- 🌓 Dark/Light theme toggle  
+- 📱 Responsive design with Tailwind CSS  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+## 🛠️ Tech Stack
+- **React with Vite**  
+- **Tailwind Css**
+- **Zustand**
+- **React-icons**
 
-## Expanding the ESLint configuration
+---
+## 📂 Project Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# zustand-todo-app
->>>>>>> a5594c400c90cee3eb3df303e2af2c7c15742541
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
+npm install
+npm run dev
