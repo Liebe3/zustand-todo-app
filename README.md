@@ -7,7 +7,8 @@ This project is a practice build to explore global state management and componen
 ## 🚀 Features
 - ➕ Add new todos  
 - ✏️ Edit existing todos  
-- ❌ Delete todos   
+- ❌ Delete todos
+- 🗑️ clear todos
 - 💾 State persistence using local storage
 - 🌓 Dark/Light theme toggle  
 - 📱 Responsive design with Tailwind CSS  
