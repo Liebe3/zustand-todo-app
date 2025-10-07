@@ -1,6 +1,6 @@
 ## Todo App
 
-A simple and responsive Todo App built with **React (Vite)**, **Tailwind CSS**, **Zustand** for state management, and **React Icons**.  
+A simple and responsive Todo App built with **React**(Vite), **Tailwind CSS**, **Zustand** for state management, and **React Icons**.  
 This project is a practice build to explore global state management and component styling with modern tools.
 
 ---
