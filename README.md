@@ -23,7 +23,7 @@ This project is a practice build to explore global state management and componen
 ---
 ## 📂 Project Setup
 
-## 1️⃣ Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
