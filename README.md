@@ -16,7 +16,7 @@ This project is a practice build to explore global state management and componen
 ---
 ## 🛠️ Tech Stack
 - **React and Vite**  
-- **Tailwind CSS**
+- **Tailwind CSS - UI/UX**
 - **Zustand - State Management**
 - **React-icons**
 
