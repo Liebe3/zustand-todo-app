@@ -18,7 +18,7 @@ This project is a practice build to explore global state management and componen
 - **React and Vite**  
 - **Tailwind CSS - UI/UX**
 - **Zustand - State Management**
-- **React-icons**
+- **React-icons - Icons**
 
 ---
 ## 📂 Project Setup
